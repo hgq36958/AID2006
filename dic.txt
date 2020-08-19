@@ -1,0 +1,24 @@
+2020年 07月 28日 星期二 10:21:44 CST
+总用量 1253196
+-rwxr-xr-x 1 tarena tarena   26355784 7月   2 17:46 360freeap_whole_setup_5.3.0.4080.exe
+-rw------- 1 tarena tarena    4767744 11月 21  2019 core
+-rw-r--r-- 1 tarena tarena         43 7月  28 10:21 dic.txt
+-rw-r--r-- 1 tarena tarena       8980 11月  6  2019 examples.desktop
+-rw-r--r-- 1 tarena tarena        120 7月  27 17:56 file1.tar.gz
+-rw-r--r-- 1 tarena tarena        138 7月  27 17:46 file.tar.bz2
+-rw-r--r-- 1 tarena tarena        134 7月  27 17:46 file.tar.gz
+-rw-r--r-- 1 tarena tarena        286 7月  27 17:53 file.zip
+-rw-r--r-- 1 tarena tarena          0 7月  27 17:53 m1
+-rw-r--r-- 1 tarena tarena          0 7月  27 17:53 m2
+-rwxrwxrwx 1 tarena tarena 1253108160 9月  29  2019 nltk_data.zip
+drwxr-xr-x 2 tarena tarena       4096 1月   3  2020 PycharmProjects
+drwxr-xr-x 3 tarena tarena       4096 7月  27 14:19 snap
+drwxrwxr-x 5 tarena tarena       4096 7月  27 09:50 tedu
+drwxr-xr-x 2 tarena tarena       4096 11月  6  2019 公共的
+drwxr-xr-x 2 tarena tarena       4096 1月   3  2020 模板
+drwxr-xr-x 2 tarena tarena       4096 11月  6  2019 视频
+drwxr-xr-x 2 tarena tarena       4096 11月  6  2019 图片
+drwxr-xr-x 2 tarena tarena       4096 7月   7 10:44 文档
+drwxr-xr-x 2 tarena tarena       4096 7月  27 09:50 下载
+drwxr-xr-x 2 tarena tarena       4096 11月  6  2019 音乐
+drwxr-xr-x 2 tarena tarena       4096 7月  18 18:38 桌面
